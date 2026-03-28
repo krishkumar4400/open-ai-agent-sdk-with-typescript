@@ -18,14 +18,14 @@ This project is based on a complete AI Agents playlist by Piyush Garg, where I a
 
 This repository serves as:
 
-- 📚 A structured learning archive  
-- 🧠 A concept reference  
-- 🛠 A hands-on experimentation playground  
-- 💼 A portfolio-ready AI systems project  
+-  A structured learning archive  
+-  A concept reference  
+-  A hands-on experimentation playground  
+-  A portfolio-ready AI systems project  
 
 ---
 
-## 🧠 What I'm Learning
+##  What I'm Learning
 
 - Large Language Model integration
 - Function calling & structured outputs
