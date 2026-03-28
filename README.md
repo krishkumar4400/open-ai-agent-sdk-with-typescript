@@ -1,4 +1,4 @@
-# 🚀 AI Agents with TypeScript – Learning & Implementation Journey
+#  AI Agents with TypeScript – Learning & Implementation Journey
 
 This repository documents my structured journey of building AI Agents using **TypeScript**.  
 The goal is not just to follow tutorials, but to deeply understand, experiment, and improve upon real-world AI agent architectures.
