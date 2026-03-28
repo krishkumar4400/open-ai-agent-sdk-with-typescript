@@ -5,7 +5,7 @@ The goal is not just to follow tutorials, but to deeply understand, experiment, 
 
 ---
 
-## 📌 About This Repository
+##  About This Repository
 
 This project is based on a complete AI Agents playlist by Piyush Garg, where I am:
 
