@@ -52,4 +52,4 @@ This repository serves as:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
