@@ -39,7 +39,7 @@ This repository serves as:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **TypeScript**
 - **Node.js**
