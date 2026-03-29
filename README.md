@@ -51,5 +51,3 @@ This repository serves as:
 - Environment-based configuration
 
 ---
-
-##  Project Structure
